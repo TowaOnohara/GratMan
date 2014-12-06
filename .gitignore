@@ -41,3 +41,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+
+# bin,objディレクトリ以下は無視
+bin/
+obj/
